@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+myenv
+chromedriver.exe
+data_extraction.ipynb
+mobile_price_prediction.ipynb
+mobile_price_prediction.pdf
+smartprix.csv
+smartprix.html
+webscraping_mobiles.py
